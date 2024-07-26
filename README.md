@@ -1,5 +1,5 @@
 # Project
-Simple mobile app that allows you to download music from YouTube
+Simple app that allows you to download music from YouTube videos, made in Python with Kivy
 
 ## Dependencies
 * kivy
